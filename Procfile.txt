@@ -1,0 +1,3 @@
+
+web:vendor/bin/heroku-php-appache2 public/
+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
